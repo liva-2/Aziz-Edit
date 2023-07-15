@@ -1,4 +1,13 @@
 # Aziz-Edit
-A python app where you can uplaod your image and do some changes on it using TKinter
+A Python app where you can upload your image and do some changes to it using TKinter
 
-## imports
+## Imports:
+First I used some libraries to create a GUI app and do some image processing.
+```python
+import tkinter as tk
+import tkinter.ttk as ttk
+from PIL import ImageTk, Image, ImageEnhance
+from tkinter import filedialog
+import cv2
+import numpy
+```
