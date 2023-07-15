@@ -309,4 +309,4 @@ root.mainloop()
 ```
 * ## Video
 Now let's see how it works.
-[](https://github.com/liva-2/Aziz-Edit/assets/83817004/5f22407d-b8f3-4602-9bfa-9177682550cb)
+[Vidoe](https://github.com/liva-2/Aziz-Edit/assets/83817004/5f22407d-b8f3-4602-9bfa-9177682550cb)
